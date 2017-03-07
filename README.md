@@ -37,15 +37,20 @@ Rodrigo Saffie | 1       | [@rasaffie] | [rasaffie@ing.puc.cl]
 
 ### Ayudantes
 
-Nombre           | GitHub        | Email
----------------- | ------------- | ----------------
-Felipe del Río   |               | [fidelrio@uc.cl]
-Matías Jünemann  |               | [mjjunemann@uc.cl]
-Felipe Pezoa     |               | [fipezoa@uc.cl]
-Maria Sepulveda  |               | [mfsepulveda@uc.cl]
-Adrián Soto      |               | [assoto@uc.cl]
+Nombre           | GitHub           | Email
+---------------- | ---------------- | ----------------
+Felipe del Río   | [@fdelrio89]     | [fidelrio@uc.cl]
+Matías Jünemann  | [@mjjunemann]    | [mjjunemann@uc.cl]
+Felipe Pezoa     | [@MainScientist] | [fipezoa@uc.cl]
+Maria Sepulveda  | [@mf222]         | [mfsepulveda@uc.cl]
+Adrián Soto      | [@alanezz]       | [assoto@uc.cl]
 
-[@rasaffie]:   https://github.com/rasaffie
+[@rasaffie]:      https://github.com/rasaffie
+[@fdelrio89]:     https://github.com/fdelrio89
+[@mjjunemann]:    https://github.com/mjjunemann
+[@MainScientist]: https://github.com/MainScientist
+[@mf222]:         https://github.com/mf222
+[@alanezz]:       https://github.com/alanezz
 
 [rasaffie@ing.puc.cl]: mailto:rasaffie@ing.puc.cl
 [fidelrio@uc.cl]: mailto:fidelrio@uc.cl
