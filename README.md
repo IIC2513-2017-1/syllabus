@@ -61,7 +61,7 @@ Adrián Soto      | [@alanezz]       | [assoto@uc.cl]
 
 ## Objetivos
 El objetivo de este curso es que los alumnos conozcan la infraestructura tecnológica sobre la cual descansa la World Wide Web. Por otra parte, que aprendan a manejar las principales tecnologías que se utilizan para construir sitios y aplicaciones en la plataforma Web. Además se busca entregar una base conceptual suficiente como para que los alumnos puedan entender las nuevas tecnologías y propuestas que surgen día a día. Al finalizar el curso los alumnos:
-* Conocerán los principales estándares que hacen posible el WWW.
+* Conocerán los principales estándares que hacen posible la Web.
 * Conocerán la arquitectura tecnológica de sitios y aplicaciones Web.
 * Podrán construir sitios Web con contenido dinámico.
 * Podrán construir aplicaciones Web usando diversas tecnologías y herramientas.
