@@ -42,7 +42,7 @@ Nombre           | GitHub           | Email
 Felipe del Río   | [@fdelrio89]     | [fidelrio@uc.cl]
 Matías Jünemann  | [@mjjunemann]    | [mjjunemann@uc.cl]
 Felipe Pezoa     | [@MainScientist] | [fipezoa@uc.cl]
-Maria Sepulveda  | [@mf222]         | [mfsepulveda@uc.cl]
+María Sepúlveda  | [@mf222]         | [mfsepulveda@uc.cl]
 Adrián Soto      | [@alanezz]       | [assoto@uc.cl]
 
 [@rasaffie]:      https://github.com/rasaffie
