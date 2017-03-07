@@ -187,7 +187,7 @@ La página de [_Issues_](https://github.com/IIC2513-2017-1/syllabus/issues) se u
 
 ## Etiquetas
 
-Dentro de _Issues_, [las entradas se pueden etiquetar con ciertas categorías](https://help.github.com/articles/applying-labels-to-issues-and-pull-requests/) para mantener el orden y facilitar la búsquda de problemas similares. Una entrada puede tener múltiples etiquetas. Aunque el equipo docente irá etiquetando según corresponda, también puedes adelantarte y clasificar tu pregunta en las categorías que correspondan:
+Dentro de _Issues_, [las entradas se pueden etiquetar con ciertas categorías](https://help.github.com/articles/applying-labels-to-issues-and-pull-requests/) para mantener el orden y facilitar la búsqueda de problemas similares. Una entrada puede tener múltiples etiquetas. Aunque el equipo docente irá etiquetando según corresponda, también puedes adelantarte y clasificar tu pregunta en las categorías que correspondan:
 
 * [Material](https://github.com/IIC2513-2017-1/syllabus/labels/Material): para discutir sobre el material entregado por el equipo docente
 * [Código](https://github.com/IIC2513-2017-1/syllabus/labels/C%C3%B3digo): sobre métodos, clases, sintaxis, estándares, etc
