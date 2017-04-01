@@ -23,3 +23,32 @@ A continuación se presentan las distintas posibilidades para el proyecto semest
 - Plataforma que permite conectar emprendedores e inversionistas. Los emprendedores tendrán una vitrina para mostrar sus ideas a posibles inversionistas.
 
 Durante el semestre tendrán que realizar diversas entregas, las cuales utilizarán los avances de las anteriores. Por ello es importante mantenerse al día.
+
+# Grupos, proyectos y ayudantes
+
+Grupo            | Proyecto                      | Ayudante
+---------------- | ----------------------------- | ----------------
+1                | Gestor de apuestas            | María Sepúlveda
+2                | Tienda virtual                | Adrián Soto
+3                | Tienda virtual                | Adrián Soto
+4                | Tienda virtual                | Adrián Soto
+5                | Gestor de apuestas            | María Sepúlveda
+6                | Tienda virtual                | Adrián Soto
+7                | Tienda virtual                | Adrián Soto
+8                | Gestor de torneos de fútbol   | Felipe Pezoa
+9                | Plataforma para crowdfounding | Matías Jünemann
+10               | Gestor de rifas               | Felipe del Río
+11               | Plataforma para crowdfounding | Matías Jünemann
+12               | Plataforma para crowdfounding | Matías Jünemann
+13               | Gestor de torneos de fútbol   | Felipe Pezoa
+14               | Gestor de apuestas            | María Sepúlveda
+15               | Plataforma para crowdfounding | Matías Jünemann
+16               | Gestor de rifas               | Felipe del Río
+17               | Gestor de apuestas            | María Sepúlveda
+18               | Gestor de apuestas            | María Sepúlveda
+19               | Gestor de rifas               | Felipe del Río
+20               | Gestor de rifas               | Felipe del Río
+21               | Gestor de torneos de fútbol   | Felipe Pezoa
+22               | Gestor de torneos de fútbol   | Felipe Pezoa
+23               | Gestor de torneos de fútbol   | Felipe Pezoa
+24               | Plataforma para crowdfounding | Matías Jünemann
