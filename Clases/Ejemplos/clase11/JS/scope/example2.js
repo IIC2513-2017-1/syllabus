@@ -5,6 +5,6 @@ function f1() { // v1 existe en el scope de esta función
   };
 }
 var unaFuncion = f1(); // retorna una función
-unaFuncion(); // al llamarla, imprime 1
+unaFuncion(); // al llamarla imprime 1
 v1 = 2;
-unaFuncion(); // al llamarla, imprime 1 porque ese era el valor de v1 al definir la función
+unaFuncion(); // al llamarla imprime 2
