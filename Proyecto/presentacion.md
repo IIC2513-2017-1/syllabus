@@ -1,8 +1,8 @@
 # Proyecto Semestral - Presentación
 
-**Fecha**: martes 4 de julio entre 10:30 y 17:45
-
-**Sala**: Javier Pinto, DCC
+**Fechas y salas**:
+* martes 4 de julio entre 11:15 y 17:45 - Javier Pinto, DCC
+* miércoles 5 de julio entre 10:30 y 11:15 - Por fijar 
 
 ## Introducción
 
@@ -26,14 +26,13 @@ Por otra parte, les recomiendo que prueben antes de su presentación cómo se ve
 
 Los siguientes horarios son los asignados para cada grupo:
 
+### Martes 4 de julio
+
 | Hora Inicio |  Grupo  |
 |:-----------:| :-----: |
-| 10:30       |   9     |
-| 10:45       |   11    |
-| 11:00       |   12    |
 | 11:15       |   15    |
 | 11:30       |   6     |
-| 11:45       |   2     |
+| 11:45       |   18     |
 | 12:15       |   8     |
 | 12:30       |   13    |
 | 12:45       |   21    |
@@ -51,7 +50,15 @@ Los siguientes horarios son los asignados para cada grupo:
 | 16:45       |   1     |
 | 17:00       |   14    |
 | 17:15       |   17    |
-| 17:30       |   18    |
+| 17:30       |   2    |
+
+### Miércoles 5 de julio
+
+| Hora Inicio |  Grupo  |
+|:-----------:| :-----: |
+| 10:30       |   9     |
+| 10:45       |   11    |
+| 11:00       |   12    |
 
 Deben considerar que pueden surgir pequeños retrasos entre los horarios asignados. De todas formas, para evitar esto, les pido que tengan preparado todo lo necesario para presentar antes del horario asignado, para que la instalación requiera solamente de conectar el proyector a un computador. Si el atraso es responsabilidad del grupo, este tendrá menos tiempo para presentar (que no podrá recuperar).
 
