@@ -1,8 +1,8 @@
 # Proyecto Semestral - Presentación
 
 **Fechas y salas**:
-* martes 4 de julio entre 11:15 y 17:45 - Javier Pinto, DCC
-* miércoles 5 de julio entre 10:30 y 11:15 - Por fijar 
+* martes 4 de julio entre 11:15 y 18:00 - Javier Pinto, DCC
+* miércoles 5 de julio entre 10:30 y 11:15 - Por fijar
 
 ## Introducción
 
@@ -51,12 +51,12 @@ Los siguientes horarios son los asignados para cada grupo:
 | 17:00       |   14    |
 | 17:15       |   17    |
 | 17:30       |   2    |
+| 17:45       |   9     |
 
 ### Miércoles 5 de julio
 
 | Hora Inicio |  Grupo  |
 |:-----------:| :-----: |
-| 10:30       |   9     |
 | 10:45       |   11    |
 | 11:00       |   12    |
 
